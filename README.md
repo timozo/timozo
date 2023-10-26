@@ -7,7 +7,7 @@
    
 Currently in progress!
 
-<b>Programming languages and tools:</b> Flutter
+<b>Programming languages and tools:</b> Dart, Flutter
 
 [![Heiwa Durability](https://img.shields.io/badge/View%20on%20GitHub-Heiwa%20Durability-purple)](link)
 
