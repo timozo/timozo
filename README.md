@@ -15,7 +15,7 @@ Currently in progress!
    
   The journal application for bird enthusiasts allows users to keep track of their bird sightings, view their recent sightings with access to detailed information about the           birds, and discover new sightings made by other bird watchers in their area.
       
-<b>Programming languages and tools:</b> JavaScript, React Native, Firebase, Expo, eBird API
+<b>Programming languages and tools:</b> React Native, Firebase, Expo, eBird API
 
 [![birdWatcher](https://img.shields.io/badge/View%20on%20GitHub-birdWatcher-purple)](https://github.com/timozo/birdWatcher)
 
