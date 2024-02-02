@@ -5,15 +5,15 @@
 
 ### 1. ✨**Heiwa Durability**
    
-Currently in progress!
+A Flutter application written in Dart that improves the management of heating systems in occupied rental apartments by offering remote adjustments, real-time energy consumption monitoring, and efficiency alerts through seamless integration with Firebase Cloud Firestore. The feedback system motivates users towards more efficient usage by providing practical tips, incentives, and comparative insights, significantly contributing to environmental conservation efforts. 
 
-<b>Programming languages and tools:</b> Dart, Flutter
+<b>Programming languages and tools:</b> Dart, Flutter, Firebase Firestore, RestAPI
 
-[![Heiwa Durability](https://img.shields.io/badge/View%20on%20GitHub-Heiwa%20Durability-purple)](link)
+[![Heiwa Durability](https://img.shields.io/badge/Not%20publicly%20available-Heiwa%20Durability-purple)](link)
 
 ### 2. ✨**birdWatcher**
    
-  The journal application for bird enthusiasts allows users to keep track of their bird sightings, view their recent sightings with access to detailed information about the           birds, and discover new sightings made by other bird watchers in their area.
+The journal application for bird enthusiasts allows users to keep track of their bird sightings, view their recent sightings with access to detailed information about the           birds, and discover new sightings made by other bird watchers in their area.
       
 <b>Programming languages and tools:</b> React Native, Firebase, Expo, eBird API
 
@@ -27,7 +27,7 @@ A health journal application that lets you record your daily health related acti
 
 [![Medikus](https://img.shields.io/badge/View%20on%20GitHub-Medikus-purple)](https://github.com/timozo/medikus)
      
-## 🛠️ Technical Skills
+## 🛠️ Technologies and tools that I use
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
